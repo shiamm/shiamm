@@ -1,4 +1,4 @@
--# 👋 Hi, I’m @shiamm
+- 👋 Hi, I’m @shiamm
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning flutter
 
