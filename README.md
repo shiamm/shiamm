@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @shiamm
 - 👀 I’m interested in app development
-- 🌱 I’m currently learning flutter
 
 <!---
 - 💞️ I’m looking to collaborate on ...
