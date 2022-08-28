@@ -2,6 +2,10 @@
 - 👀 I’m interested in app development
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiamm)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiamm&show_icons=true)
+
+
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shiamm&&style=flat-square" align="center" />
 </div>  
