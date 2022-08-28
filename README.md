@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @shiamm
 - 👀 I’m interested in app development
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiamm)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiamm&show_icons=true&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shiamm&show_icons=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
  <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats/actions">
