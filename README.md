@@ -9,6 +9,8 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=shiamm&&style=flat-square" align="center" />
 </div>  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shiamm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
